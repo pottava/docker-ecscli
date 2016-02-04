@@ -1,6 +1,6 @@
 # ECS-CLI v0.2
 # docker run --rm pottava/ecscli --version
-# docker run --rm -v $HOME/.aws:/root/.aws pottava/ecscli configure --region us-east-1 --cluster cluster-name
+# docker run --rm -v $HOME/.ecs:/root/.ecs pottava/ecscli configure --region us-east-1 --cluster cluster-name
 
 FROM alpine:3.3
 
