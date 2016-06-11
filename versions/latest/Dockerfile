@@ -1,4 +1,4 @@
-# ECS-CLI v0.2
+# ECS-CLI v0.3
 # docker run --rm pottava/ecscli --version
 # docker run --rm -v $HOME/.ecs:/root/.ecs pottava/ecscli configure --region us-east-1 --cluster cluster-name
 
